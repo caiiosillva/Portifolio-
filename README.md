@@ -69,7 +69,7 @@
         </div>
         <div class="projeto">
             <h3>Projeto 2: </h3>
-            <p>Deixe o projeto aqui.</p>
+            <p>.</p>Uma calculadora que faz operações básicas (adição, subtração, multiplicação e divisão). Usei HTML para o layout, CSS para o estilo e JavaScript para fazer os cálculos.
         </div>
     </div>
 </section>
