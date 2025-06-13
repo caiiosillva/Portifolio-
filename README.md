@@ -48,7 +48,7 @@
 </header>
 
 <section>
-    <p>Se apresente aqui</p>
+    <p> Olá! Meu nome é <strong>Caio Gabriel </strong>, tenho 16 anos e sou estudante da escola <strong>Jácomo Stavale</strong>. Estou começando minha trajetória no desenvolvimento web, aprendendo a criar sites e aplicações interativas. Gosto de tecnologia e estou animado para continuar aprendendo e evoluindo nesse mundo da programação </p>
 </section>
 
 <section>
@@ -57,7 +57,8 @@
         <li>HTML</li>
         <li>JavaScript</li>
     </ul>
-    <p>Deixe uma breve descrição aqui</p>
+    <p>aprendi os fundamentos do <strong>HTML</strong>, que é a linguagem usada para estruturar páginas na internet. Agora sei como criar textos, imagens, listas, links, formulários e organizar tudo com uma boa estrutura semântica, facilitando tanto o entendimento do usuário quanto a acessibilidade</p> 
+    <p>Também aprendi JavaScript, que permite adicionar interatividade nas páginas. Com ele, consegui entender como usar variáveis, funções, eventos e como manipular elementos do HTML usando o DOM.</p>
 </section>
 
 <section>
