@@ -65,7 +65,7 @@
     <div class="projetos">
         <div class="projeto">
             <h3>Projeto 1: </h3>
-            <p>Deixe o projeto aqui</p>
+            <p>Um aplicativo simples onde é possível adicionar, marcar como concluídas e remover tarefas do dia a dia. Feito com HTML, CSS e JavaScript.</p>
         </div>
         <div class="projeto">
             <h3>Projeto 2: </h3>
