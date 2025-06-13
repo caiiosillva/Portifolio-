@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8" />
-    <title>Portfólio de Natan Lopes Gimenez</title>
+    <title>Portfólio de Caio Gabriel </title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -44,7 +44,7 @@
 <body>
 
 <header>
-    <h1>Portfólio de Natan Lopes Gimenez</h1>
+    <h1>Portfólio de Caio Gabriel</h1>
 </header>
 
 <section>
